@@ -1,4 +1,4 @@
-package Lesson15Executor15;
+package Lesson15Synchronized;
 
 
 import java.util.concurrent.ExecutorService;

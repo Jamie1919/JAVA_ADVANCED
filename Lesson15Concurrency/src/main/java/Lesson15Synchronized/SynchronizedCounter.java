@@ -1,4 +1,4 @@
-package Lesson15Executor15;
+package Lesson15Synchronized;
 
 public class SynchronizedCounter {
   private static int i = 0;

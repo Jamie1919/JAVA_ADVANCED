@@ -1,4 +1,6 @@
-package Lesson15Executor15;
+package Lesson15Synchronized;
+
+import Lesson15Synchronized.AtomicCounter;
 
 public class AtomicCounterRunnable implements Runnable{
   private AtomicCounter count = new AtomicCounter();

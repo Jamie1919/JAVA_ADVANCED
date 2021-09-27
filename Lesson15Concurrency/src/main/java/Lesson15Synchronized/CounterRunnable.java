@@ -1,4 +1,6 @@
-package Lesson15Executor15;
+package Lesson15Synchronized;
+
+import Lesson15Synchronized.Counter;
 
 public class CounterRunnable implements Runnable{
   private Counter count = new Counter();
