@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="393f5d8b-92b4-4394-bf18-de441f18fa75" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java Advanced Project 4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfKeywordandCodeBlocks/IfKeywordandCodeBlocks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/Methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/Operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SampleCodingExcercises/SampleCodingExcercises.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Strings.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/Switch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/.idea/Java Advanced Project 4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Advanced Project 4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Advanced Project 4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/ByteShortIntLong/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/ByteShortIntLong/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/ByteShortIntLong/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/ByteShortIntLong/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/ByteShortIntLong/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/ByteShortIntLong/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/ByteShortIntLong/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/ByteShortIntLong/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/ByteShortIntLong/ByteShortIntLong.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/ByteShortIntLong/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/CharAndBoolean/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/CharAndBoolean/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/CharAndBoolean/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/CharAndBoolean/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/CharAndBoolean/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/CharAndBoolean/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/CharAndBoolean/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/CharAndBoolean/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/CharAndBoolean/CharAndBoolean.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/CharAndBoolean/out/production/CharAndBoolean/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/CharAndBoolean/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/FloatAndDouble/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/FloatAndDouble/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/FloatAndDouble/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/FloatAndDouble/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/FloatAndDouble/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/FloatAndDouble/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/FloatAndDouble/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/FloatAndDouble/FloatAndDouble.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/FloatAndDouble/out/production/FloatAndDouble/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/FloatAndDouble/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/HelloWorld/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/HelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/HelloWorld/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/HelloWorld/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/HelloWorld/out/production/HelloWorld/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/HelloWorld/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/IfKeywordandCodeBlocks/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/IfKeywordandCodeBlocks/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/IfKeywordandCodeBlocks/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/IfKeywordandCodeBlocks/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/IfKeywordandCodeBlocks/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/IfKeywordandCodeBlocks/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/IfKeywordandCodeBlocks/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/IfKeywordandCodeBlocks/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/IfKeywordandCodeBlocks/IfKeywordandCodeBlocks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/IfKeywordandCodeBlocks/out/production/IfKeywordandCodeBlocks/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/IfKeywordandCodeBlocks/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/KeywordsAndExpressions/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/KeywordsAndExpressions/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/KeywordsAndExpressions/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/KeywordsAndExpressions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/KeywordsAndExpressions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/KeywordsAndExpressions/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/KeywordsAndExpressions/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/KeywordsAndExpressions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/KeywordsAndExpressions/KeywordsAndExpressions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/KeywordsAndExpressions/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/MethodOverloading/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/MethodOverloading/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/MethodOverloading/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/MethodOverloading/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/MethodOverloading/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/MethodOverloading/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/MethodOverloading/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/MethodOverloading/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/MethodOverloading/MethodOverloading.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/MethodOverloading/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Methods/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Methods/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Methods/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Methods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Methods/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Methods/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Methods/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Methods/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Methods/Methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Methods/out/production/Methods/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Methods/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Operators/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Operators/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Operators/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Operators/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Operators/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Operators/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Operators/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Operators/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Operators/Operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Operators/out/production/Operators/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Operators/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/PrimitiveTypesChallenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/PrimitiveTypesChallenge/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/PrimitiveTypesChallenge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/PrimitiveTypesChallenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/PrimitiveTypesChallenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/PrimitiveTypesChallenge/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/PrimitiveTypesChallenge/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/PrimitiveTypesChallenge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/PrimitiveTypesChallenge/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SampleCodingExcercises/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SampleCodingExcercises/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SampleCodingExcercises/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SampleCodingExcercises/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SampleCodingExcercises/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SampleCodingExcercises/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SampleCodingExcercises/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SampleCodingExcercises/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SampleCodingExcercises/SampleCodingExcercises.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SampleCodingExcercises/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SecondsAndMinutesChallenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SecondsAndMinutesChallenge/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SecondsAndMinutesChallenge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SecondsAndMinutesChallenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SecondsAndMinutesChallenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SecondsAndMinutesChallenge/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SecondsAndMinutesChallenge/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SecondsAndMinutesChallenge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SecondsAndMinutesChallenge/out/production/SecondsAndMinutesChallenge/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SecondsAndMinutesChallenge/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SpeedConverter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SpeedConverter/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SpeedConverter/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SpeedConverter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SpeedConverter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SpeedConverter/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SpeedConverter/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SpeedConverter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SpeedConverter/SpeedConverter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SpeedConverter/out/production/SpeedConverter/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SpeedConverter/out/production/SpeedConverter/com/company/SpeedConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SpeedConverter/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/SpeedConverter/src/com/company/SpeedConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/StatementsWhiteSpaceAndIndenting/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/StatementsWhiteSpaceAndIndenting/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/StatementsWhiteSpaceAndIndenting/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/StatementsWhiteSpaceAndIndenting/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/StatementsWhiteSpaceAndIndenting/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/StatementsWhiteSpaceAndIndenting/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/StatementsWhiteSpaceAndIndenting/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/StatementsWhiteSpaceAndIndenting/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/StatementsWhiteSpaceAndIndenting/out/production/StatementsWhiteSpaceAndIndenting/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/StatementsWhiteSpaceAndIndenting/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Strings/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Strings/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Strings/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Strings/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Strings/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Strings/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Strings/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Strings/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Strings/Strings.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Strings/out/production/Strings/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Advanced Project 4/Strings/src/com/company/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zgAS1trspUsTVdOREXOFJosD2z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="393f5d8b-92b4-4394-bf18-de441f18fa75" name="Changes" comment="" />
+      <created>1634559356917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634559356917</updated>
+    </task>
+    <servers />
+  </component>
+</project>
