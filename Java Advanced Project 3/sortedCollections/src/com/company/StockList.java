@@ -47,7 +47,7 @@ public class StockList {
             prices.put(item.getKey(), item.getValue().getPrice());
         }
         return Collections.unmodifiableMap(prices);
-        
+
     }
 
     public Map<String, StockItem> Items() {
